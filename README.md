@@ -1,2 +1,2 @@
 ﻿# Retype Website
-Welcome to Retype website
+Welcome to Retype website. This is for demo purpose
